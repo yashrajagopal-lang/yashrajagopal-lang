@@ -156,16 +156,6 @@ My goal is to become a **skilled Software Engineer** and build technology-driven
 I'm particularly interested in:
 
 `Software Development` • `AI/ML` • `Full-Stack Development` • `Cloud` • `Automation`
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
-</p>
-
 ---
 
 # 🤝 Connect With Me
@@ -175,7 +165,7 @@ I'm particularly interested in:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="www.linkedin.com/in/yaswanth-r-587a7b359">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
