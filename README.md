@@ -161,15 +161,18 @@ I'm particularly interested in:
 
 # 🤝 Connect With Me
 
-<p>
+<p align="left">
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="[www.linkedin.com/in/yaswanth-r-587a7b359]https://www.linkedin.com/in/yaswanth-r-587a7b359/?isSelfProfile=true">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/yaswanth-r-587a7b359/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 </p>
+
 
 ---
 
